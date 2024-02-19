@@ -1,4 +1,4 @@
-# This repo contains FOE ASU CSE231 course sheets and solutions.
+# This repo contains FOE ASU CSE231 course sheets solution.
 ### To download sheet solutions, use the following links:
 * #### [Sheet1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/A-Ashraf255/CSE231/tree/master/Sheets/Sheet1)
 * #### [Sheet2](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/A-Ashraf255/CSE231/tree/master/Sheets/Sheet2)
