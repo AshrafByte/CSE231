@@ -33,6 +33,8 @@ public class Main
 
    public static void main(String[] args)
    {
+      // I used functions to show the difference between static and non static function.
+      // you can of course solve the ex without functions.
       Main obj = new Main();
       obj.area_perimeter_rectangle(4, 5.5f);  // this is an example where we used non static function inside a static function (main) by making instance of the Main class
       area_perimeter_square(10);
