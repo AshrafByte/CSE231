@@ -25,7 +25,7 @@ public class Vector
    If you don't specify any access modifiers, the methods or data fields will be considered [package private]
    which means they can be used by any class within the package but not outside of it.
    */
-   Vector(int x, int y)
+   Vector(double x, double y)
    {
       this.x = x;
       this.y = y;
