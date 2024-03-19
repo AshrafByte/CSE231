@@ -52,7 +52,7 @@ class Vector
 
    double angle() // return angle in degree
    {
-      return Math.atan(y / x) * (180 / (Math.PI));
+      return Math.atan2(y, x);
    }
 
    void print()
@@ -64,10 +64,7 @@ class Vector
 
    Vector add(Vector v)
    {
-      Vector add = new Vector();
-      add.setX(x + v.getX());
-      add.setY(y + v.getY());
-      return add;
+      return new Vector(x + v.x , y + v.y);
    }
 
    Vector sub(Vector v)

@@ -59,8 +59,10 @@ public class Vector
    double angle() // return angle in degree
    {
       return Math.atan(y / x) * (180 / (Math.PI));
+      // or 
+      // return Math.atan2(y,x);
    }
-
+   
    void print()
    {
       System.out.printf("%.2fi + %.2fj\n", x, y); // or System.out.println(x+"i + "+y+"j")
@@ -89,6 +91,8 @@ public class Vector
       sub.x = v1.x - v2.x; // since we are inside vector class, we don't need to use setter and getter.
       sub.y = v1.y - v2.y;
       return sub;
+      // you can also use
+      // return new Vector (v1.x - v2.x , v1.y - v2.y);
    }
 
    void read()
