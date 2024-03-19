@@ -2,7 +2,7 @@
 ### To download specific lab solutions, use the following links:
 * #### [Lab1](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab1)
 * #### [Lab2](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab2)
-* #### [Lab2](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab3)
+* #### [Lab3](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab3)
 
 
 ### How to open each exercise java package in Apache NetBeans IDE ❓ 
