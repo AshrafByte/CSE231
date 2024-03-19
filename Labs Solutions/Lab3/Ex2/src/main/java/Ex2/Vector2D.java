@@ -64,10 +64,7 @@ public class Vector2D
 
    Vector2D add(Vector2D v)
    {
-      Vector2D add = new Vector2D();
-      add.setX(x + v.getX());
-      add.setY(y + v.getY());
-      return add;
+      return new Vector2D(x + v.x , y + v.y);
    }
 
    Vector2D sub(Vector2D v)

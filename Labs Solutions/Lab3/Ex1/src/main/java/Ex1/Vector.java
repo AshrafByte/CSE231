@@ -59,8 +59,6 @@ public class Vector
    double angle() // return angle in degree
    {
       return Math.atan(y / x) * (180 / (Math.PI));
-      // or 
-      // return Math.atan2(y,x);
    }
    
    void print()

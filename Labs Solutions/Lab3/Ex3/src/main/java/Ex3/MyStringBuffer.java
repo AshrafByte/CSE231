@@ -138,6 +138,15 @@ public class MyStringBuffer
       }
       buffer = tempBuffer;
    }
+   // You could also use System.arraycopy() and str.getChars() method to impelement both insert and erase methods.
+   // getChars(int srcBeginIndex, int srcEndIndex, char[] destination, int dstBeginIndex)
+   // arraycopy (Object src, int srcPos, Object dest, int destPos, int length)
+   /*
+        System.arraycopy(buffer, 0, tempBuffer, 0, index);
+        str.getChars(0, str.length(), tempBuffer, index);
+        System.arraycopy(buffer, index, tempBuffer, index + str.length(), buffer.length - index);
+   */
+   
  // another implementation
  /* void insert(int index, String str)
    {

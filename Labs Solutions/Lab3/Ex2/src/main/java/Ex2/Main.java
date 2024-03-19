@@ -28,6 +28,7 @@ public class Main
       System.out.println();
       Line2D line2 = new Line2D(v, p);
       line2.print();
+      v.add(new Vector2D(10,20)).print();
       
       
    }
