@@ -19,7 +19,7 @@ It contains solutions to the lab exercises assigned in the CSE231 course at Facu
 
 ## 🎓 Introduction
 
-This repository provides solutions to the lab exercises of the CSE231 course. It serves as a resource to help students understand Java programming concepts better.
+This repository provides solutions to the lab exercises of the CSE231 course. It serves as a resource to help you understand Java programming concepts better.
 
 ## 🧩 Lab Solutions
 
