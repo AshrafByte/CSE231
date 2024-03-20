@@ -31,7 +31,7 @@ Solutions to each lab assignment:
 
 ## 💡 About the Solutions
 
-I provide you with various solutions for the same exercise to help you get familiar with Java. While efforts have been made to ensure correctness, these solutions may not always be the most efficient or optimal.
+Multiple approaches to some exercises are provided to help you get familiar with Java. While efforts have been made to ensure correctness, these solutions may not always be the most efficient or optimal.
 
 ## 🚀 Getting Started
 
