@@ -43,7 +43,7 @@ Multiple approaches to some exercises are provided to help you get familiar with
 
 ### 🖥️ Opening in Apache NetBeans IDE
 
-1. Open Apache NetBeans IDE.
-2. Head to `File` > `Open Project`.
-3. Locate the lab solution folder.
-4. Launch your project and start coding!
+1. Launch Apache NetBeans IDE.
+2. Select `File` > `Open Project`.
+3. Navigate to the extracted lab solution directory.
+4. Open the project.
