@@ -12,10 +12,11 @@ It contains solutions to the lab exercises assigned in the CSE231 course at Facu
 
 ## 📑 Table of Contents
 
-- Introduction
-- Lab Solutions
-- About the Solutions
-- Getting Started
+- [Introduction](#introduction)
+- [Lab Solutions](#lab-solutions)
+- [About the Solutions](#about-the-solutions)
+- [Getting Started](#getting-started)
+
 
 ## 🎓 Introduction
 
