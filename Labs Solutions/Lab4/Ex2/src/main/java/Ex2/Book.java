@@ -72,7 +72,7 @@ class Book
       return  "ID : " + id + "\n" +
               "Title : " + title + "\n" +
               "Release Date : " + releaseDate + "\n" +
-              "Price : " + price;
+              "Price : " + price + "$";
    }
 
    @Override

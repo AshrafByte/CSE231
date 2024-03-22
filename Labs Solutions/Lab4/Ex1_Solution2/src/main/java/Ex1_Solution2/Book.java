@@ -48,7 +48,7 @@ class Book
       System.out.println( "ID : " + id);
       System.out.println( "Title : " + title);
       System.out.println( "Release date : " + releaseDate);
-      System.out.println( "Price : " + price);
+      System.out.println( "Price : " + price + "$");
    }
    public void read()
    {

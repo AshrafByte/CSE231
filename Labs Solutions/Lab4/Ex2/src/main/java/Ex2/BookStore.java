@@ -65,9 +65,8 @@ public class BookStore
       
       System.out.println("List of books you entered :-\n");
       for (Book b : books)
-         b.print(); // or System.out.println(b + "\n");
+         b.print(); // or System.out.println(b + "\n"); // toString function will be called.
 
-      System.out.println();
       if (numberOfBooks >= 2)
       {
          String eq ; 
