@@ -29,6 +29,7 @@ Solutions to each lab assignment:
 - [Lab 1](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab1)
 - [Lab 2](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab2)
 - [Lab 3](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab3)
+- [Lab 4](https://ssgithub.com/A-Ashraf255/CSE231/tree/master/Labs%20Solutions/Lab4)
 
 ## 💡 About the Solutions
 
