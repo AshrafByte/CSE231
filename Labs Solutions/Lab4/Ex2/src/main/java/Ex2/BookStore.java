@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class BookStore
 {
 
-   static void readBook(Book[] books)
+   static void readBooks(Book[] books)
    {
       Scanner in = new Scanner(System.in);
       String type;
@@ -56,17 +56,30 @@ public class BookStore
       Scanner in = new Scanner(System.in);
       System.out.println("Welcome to our Book store, we sell text and audio books");
       System.out.println("---------------------------------------------------------");
+      
       System.out.print("Enter the number of books you need : ");
       int numberOfBooks = in.nextInt();
       Book[] books = new Book[numberOfBooks];
 
-      readBook(books);
+      readBooks(books);
       
       System.out.println("List of books you entered :-\n");
       for (Book b : books)
          b.print(); // or System.out.println(b + "\n");
 
-      System.out.println(books[0].equals(books[1]));
+      System.out.println();
+      if (numberOfBooks >= 2)
+      {
+         String eq ; 
+         for (int i = 0 ; i < numberOfBooks - 1 ; i++)
+         {
+            if (books[i].equals(books[i+1]))
+               eq = " equal ";
+            else
+               eq = " not equal ";
+            System.out.println("Book" + (i+1) + eq + "Book" + (i+2) );
+         }
+      }
    }
 }
 // finally, try to solve this exercise without using inheritance and polymorphism.
